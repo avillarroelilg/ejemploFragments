@@ -39,9 +39,5 @@ public class MainActivity extends AppCompatActivity {
             default:
                 Log.d("TAG", "changeFragment: option defoult");
         }
-
-
     }
-
-
 }
